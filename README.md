@@ -2,7 +2,7 @@
 CryoVirusDB is a dataset of labeled virus particles in cryo-EM micrographs (images) for training and testing machine learning methods of virus particle picking. This repository contains scripts used to crawl, download, process, annotate, and post procress the CryoVirusDB dataset.
 
 ![Picture1](https://github.com/BioinfoMachineLearning/CryoVirusDB/assets/24986485/4def3167-c8c9-4a46-ab94-b6a57146c078)
-Figure: Conceptual overview of Cryo-EM single particle analysis from particle selection to 3D reconstruction of virus. (A) Stack of ideal micrographs where the true virus particles are picked (encircled yellow), (B) Extracted virus particles from micrographs with fixed box size. (C) Multiple 2D classes to facilitate stack cleaning and the removal of false particles.  (D) Reconstructed 3D structure of the virus from 2D images using series of computational techniques.
+<small> Figure: Conceptual overview of Cryo-EM single particle analysis from particle selection to 3D reconstruction of virus. (A) Stack of ideal micrographs where the true virus particles are picked (encircled yellow), (B) Extracted virus particles from micrographs with fixed box size. (C) Multiple 2D classes to facilitate stack cleaning and the removal of false particles.  (D) Reconstructed 3D structure of the virus from 2D images using series of computational techniques. </small>
 
 ## Data Download and Extraction in one of the three ways
 
