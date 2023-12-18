@@ -58,10 +58,10 @@ Statistics of true virus particles for each EMPIAR database in CryoVirusDB:
 | 4      | 10033         | Human parechovirus 3                | 1000                         | (4096, 4096)        | 350                           | 55732                                 |
 | 5      | 10652         | Coxsackievirus                      | 1127                         | (3838, 3710)        | 374                           | 11144                                 |
 | 6      | 10341         | Bovine enterovirus                  | 1274                         | (4096, 4096)        | 376                           | 22694                                 |
-| 7      | 10193         | Feline calicivirus                  | 1000                         | (4096, 4096)        | 516                           | 4103                                  |
-| 8      | 10205         | Cowpea mosaic virus                 | 1000                         | (4096, 4096)        | 310                           | 55471                                 |
+| 7      | 10193         | Feline calicivirus                  | 1000                         | (4096, 4096)        | 516                           | 96126                                 |
+| 8      | 10205         | Cowpea mosaic virus                 | 1000                         | (4096, 4096)        | 310                           | 81037                                 |
 | 9      | 10555         | Nudaurelia capensis omega virus     | 1264                         | (4096, 4096)        | 564                           | 34488                                 |
-|        |               | **Total**                           | **9941**                     |                     |                               | **221809**                            |
+|        |               | **Total**                           | **9941**                     |                     |                               | **339398**                            |
 
 ## Data Usage for ML-Based Applications:
 
