@@ -22,7 +22,7 @@ To download and extract dataset (ex: 11060), use command: \
 `cd download_micrographs` \
 `python download_micrographs_from_EMPIAR.py` 
 
-These commands will enable you to download all the motion corrected micrographs from EMPIAR. Next, you should retrieve the virus particle labels from Zenodo by accessing this link: https://zenodo.org/record/TODO
+These commands will enable you to download all the motion corrected micrographs from EMPIAR. Next, you should retrieve the virus particle labels from Zenodo by accessing this link: https://zenodo.org/record/10397742
 
 
 ## Option 3: Download a light version of the data: CryoVirusDB_Lite, if space constraints
@@ -38,7 +38,7 @@ The steps to download and extract the data files are identical to the instructio
 ![Picture5](https://github.com/BioinfoMachineLearning/CryoVirusDB/assets/24986485/b0b24c85-476d-43dd-b4e6-d77685f058fe)
 
 
-CryoVirusDB is an expert-labeled dataset containing coordinates of accurately selected virus particles in cryo-EM micrographs. CryoVirusDB comprises 9,941 micrographs featuring 9 different viruses along with the coordinates of 0.2 Million virus particles in total. We anticipate that CryoVirusDB will enhance the capabilities of deep learning in accurately identifying virus particles in cryo-EM micrographs, thereby facilitating the subsequent 2D-3D reconstruction process. 
+CryoVirusDB is an expert-labeled dataset containing coordinates of accurately selected virus particles in cryo-EM micrographs. CryoVirusDB comprises 9,941 micrographs featuring 9 different viruses along with the coordinates of 0.3 Million virus particles in total. We anticipate that CryoVirusDB will enhance the capabilities of deep learning in accurately identifying virus particles in cryo-EM micrographs, thereby facilitating the subsequent 2D-3D reconstruction process. 
 
 
 ## Data Records
