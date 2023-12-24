@@ -27,7 +27,7 @@ These commands will enable you to download all the motion corrected micrographs 
 
 ## Option 3: Download a light version of the data: CryoVirusDB_Lite, if space constraints
 If storage space is a concern, researchers can opt for a more lightweight version of CryoVirusDB called CryoVirusDB_Lite.  
-CryoVirusDB_Lite includes truncated versions of the original micrographs and particle ground truth files that result in a total storage size of TODO GB, making it easier to store and transfer. This version includes an 8-bit representation of micrographs in JPG format, along with the necessary particle coordinate files for 9 Cryo-EM virus datasets.
+CryoVirusDB_Lite includes truncated versions of the original micrographs and particle ground truth files that result in a total storage size of 76 GB, making it easier to store and transfer. This version includes an 8-bit representation of micrographs in JPG format, along with the necessary particle coordinate files for 9 Cryo-EM virus datasets.
 
 Path to CryoVirusDB_Lite Dataset: https://calla.rnet.missouri.edu/CryoVirusDB_Lite/ \
 The steps to download and extract the data files are identical to the instructions provided in option 1.
