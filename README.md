@@ -89,5 +89,15 @@ This article is licensed under a Creative Commons Attribution 4.0 International 
 
 ## Cite this work
 If you use the code or data associated with this research work or otherwise find this data useful, please cite: \
-TOUPDATE
+
+### CryoVirusDB
+@article {Gyawali2023.12.25.573312, \
+	author = {Rajan Gyawali and Ashwin Dhakal and Liguo Wang and Jianlin Cheng}, \
+	title = {CryoVirusDB: A Labeled Cryo-EM Image Dataset for AI-Driven Virus Particle Picking}, \
+	year = {2023}, \
+	doi = {10.1101/2023.12.25.573312}, \
+	publisher = {Cold Spring Harbor Laboratory}, \
+    journal = {bioRxiv} \
+	URL = { https://www.biorxiv.org/content/10.1101/2023.12.25.573312v1 }
 }
+
