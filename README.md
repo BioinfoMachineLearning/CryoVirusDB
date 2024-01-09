@@ -85,7 +85,7 @@ Open Access \
 This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
 
 
-** Link to CryoVirusDB paper ** : TO Update once deposited in bioRxiv
+** Link to CryoVirusDB paper ** : https://www.biorxiv.org/content/10.1101/2023.12.25.573312v1
 
 ## Cite this work
 If you use the code or data associated with this research work or otherwise find this data useful, please cite: \
