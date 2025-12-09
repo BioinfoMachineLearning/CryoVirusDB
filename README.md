@@ -1,4 +1,4 @@
-# CryoVirusDB: An Expert Labelled Cryo-EM Image Dataset for AI-Driven Virus Particle recognition and Extraction
+# CryoVirusDB: An Annotated Dataset for AI-Based Virus Particle Identification in Cryo-EM Micrographs
 CryoVirusDB is a dataset of labeled virus particles in cryo-EM micrographs (images) for training and testing machine learning methods of virus particle picking. This repository contains scripts used to crawl, download, process, annotate, and post procress the CryoVirusDB dataset.
 
 ![Picture1](https://github.com/BioinfoMachineLearning/CryoVirusDB/assets/24986485/4def3167-c8c9-4a46-ab94-b6a57146c078)
