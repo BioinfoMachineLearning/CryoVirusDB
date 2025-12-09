@@ -19,7 +19,7 @@ To download and extract dataset (ex: 11060), use command: \
 
 ## Option 2: Use scripts to download all the cryo-EM micrographs from EMPIAR and virus particles coordinates from Zenodo
 `git clone https://github.com/BioinfoMachineLearning/CryoVirusDB.git` \
-`cd download_micrographs` \
+`cd micrographs_download_scripts` \
 `python download_micrographs_from_EMPIAR.py` 
 
 These commands will enable you to download all the motion corrected micrographs from EMPIAR. Next, you should retrieve the virus particle labels from Zenodo by accessing this link: https://zenodo.org/record/10397742
